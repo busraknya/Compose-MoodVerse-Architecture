@@ -66,4 +66,3 @@ The main goal was to keep the code simple, testable, and easy to extend.
 ## Links
 
 * [CodeCanyon](https://codecanyon.net/item/moodverse-ai-mood-journal-full-android-app-jetpack-compose/61348983)
-* [GitHub](https://github.com/busraknya/Compose-MoodVerse-Architecture)
